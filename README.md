@@ -37,7 +37,7 @@ O projeto consiste em um sistema que registra motos, atualiza suas informações
 - **Migrations EF Core** para gerenciamento do banco
 
 ---
-
-RM557528 - Leonardo Cadena de Souza
-RM554890 - Davi Gonzaga Ferreira
-RM558785 - Julia Vasconcelos Oliveira
+## 👥 Integrantes
+- **RM557528 - Leonardo Cadena de Souza**
+- **RM554890 - Davi Gonzaga Ferreira**
+- **RM558785 - Julia Vasconcelos Oliveira**
