@@ -41,3 +41,4 @@ O projeto consiste em um sistema que registra motos, atualiza suas informações
 - **RM557528 - Leonardo Cadena de Souza**
 - **RM554890 - Davi Gonzaga Ferreira**
 - **RM558785 - Julia Vasconcelos Oliveira**
+- 📧 Contato: leonardocadenasza@gmail.com
